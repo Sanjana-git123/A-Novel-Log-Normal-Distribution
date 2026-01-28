@@ -1,3 +1,5 @@
+This research demonstrates applied statistical modeling, simulation, optimization, and real-world data analysis using Python.
+
 # A Novel Log-Normal Distribution
 
 ## 📄 Overview
